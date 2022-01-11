@@ -12,3 +12,4 @@ All you have to do is [import](https://github.com/Glaxier0/task-manager-api/blob
 If you want to host your own api or use code locally don't forget to set [dev.env](https://github.com/Glaxier0/task-manager-api/blob/main/config/dev.env) file.
 
 NPM run script is: npm run dev
+NPM test script is: npm test
